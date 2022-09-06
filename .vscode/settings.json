@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "car_dealership_db",
+            "database": "car_dealership_db",
+            "username": "postgres",
+            "connectString": "postgres://akrsnrcl:Pli318zj2dFfwhHEmZFo8hlj5KvGJ9_R@heffalump.db.elephantsql.com/akrsnrcl"
+        }
+    ]
+}
